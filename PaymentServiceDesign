@@ -1,0 +1,18 @@
+you should expose a method pay() to the client
+
+client can pay with credit card , bank or upi
+
+
+credit card payment requires - 
+credit card number
+cvv
+card expiry date
+
+bank payment requires -
+bank account number
+ifsc code
+
+upi payment requires -
+upi id
+
+Once payment is successfull, customer should be notified via sms or email
